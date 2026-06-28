@@ -2,8 +2,7 @@
 
 An intelligent, AI-powered conversational agent built with Streamlit and OpenRouter. This agent helps you discover your next great read by answering book-related questions and using an integrated search tool to find books, authors, and cover art.
 <img width="1148" height="723" alt="image" src="https://github.com/user-attachments/assets/ee630112-ce78-499b-8fc6-ddce7f8af3f1" />
-<img width="1175" height="486" alt="image" src="https://github.com/user-attachments/assets/43281b3d-b4d9-4bf4-934c-a1f293f8137f" />
-
+<img width="1067" height="477" alt="image" src="https://github.com/user-attachments/assets/e47d7bcd-ef70-4aff-8705-7016fcf68870" />
 
 ## Features
 
